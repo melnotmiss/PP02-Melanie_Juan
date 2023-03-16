@@ -1,4 +1,5 @@
-
+#Melanie y Juan 
+#21-0949 y 21-0041
 """
     Leer el archivo adjunto "wendys-menu.csv", y devolver el promedio de las calorías de los alimentos agrupados por categorías.
     

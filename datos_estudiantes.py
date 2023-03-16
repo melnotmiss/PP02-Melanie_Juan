@@ -1,3 +1,12 @@
+#Melanie y Juan 
+#21-0949 y 21-0041
+#Datos estudiantes. Preguntar al usuario la cantidad de estudiantes que desea ingresar. 
+#Para cada estudiante, solicitar su nombre, edad y matrícula. Guardar esta información en un archivo llamado 
+# "estudiantes.json" usando un diccionario, donde el nombre del estudiante es la clave y la edad y grado son valores. 
+#Solicitar por teclado el nombre de un estudiante y leer el archivo "estudiantes.json" para imprimir el detalle de 
+# ese estudiante. Si el estudiante no está en el archivo, devolver el mensaje: "No hay estudiantes con ese nombre".
+
+
 import json
 
 
